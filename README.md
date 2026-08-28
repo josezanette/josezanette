@@ -9,7 +9,7 @@ Me chamo José Eduardo Zanette, tenho 18 anos e sou natural do Rio Grande do Sul
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCAnOd-uPVSRSvwUIKNbAtaQ?color=%23E05D44&label=Inscritos%20ao%20vivo&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://img.shields.io/youtube/channel/subscribers/UCAnOd-uPVSRSvwUIKNbAtaQ?style=for-the-badge&logo=youtube&label=INSCRITOS%20AO%20VIVO&color=E05D44&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@eusouzanette">
