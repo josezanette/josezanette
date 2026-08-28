@@ -2,28 +2,37 @@
 
 **`Desenvolvedor`**
 
-Me chamo José Eduardo Zanette, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na Escola Estadual de Ensino Médio Vicente Guerra. Atualmente, estou cursando Ciências da Computação na UPF. Sou apaixonado por tecnologia e compartilho meu conhecimento através de meus repositórios no GITHUB e também através do Instagram, com o perfil chamado "[zanette_jose](https://www.instagram.com/zanette_jose/)".
+Me chamo José Eduardo Zanette, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o Ensino Médio na Escola Estadual de Ensino Médio Vicente Guerra e, atualmente, curso Ciência da Computação na UPF.
+
+Sou apaixonado por tecnologia e estou em constante desenvolvimento, buscando aprimorar meus conhecimentos e habilidades através de projetos e experiências práticas. Compartilho meus projetos e aprendizados por meio dos meus repositórios no GitHub e também nas redes sociais.
 
 <p align="left">
     <a href="https://www.youtube.com/@eusouzanette">
         <img 
-            alt="youtube subscribers" 
+            alt="Inscritos no YouTube" 
             title="Inscreva-se no meu canal" 
             src="https://img.shields.io/youtube/channel/subscribers/UCAnOd-uPVSRSvwUIKNbAtaQ?style=for-the-badge&logo=youtube&label=INSCRITOS%20AO%20VIVO&color=E05D44&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@eusouzanette">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCAnOd-uPVSRSvwUIKNbAtaQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="Visualizações no YouTube" 
+            title="Visualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCAnOd-uPVSRSvwUIKNbAtaQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&label=VISUALIZAÇÕES&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/josezanette?tab=followers">
         <img 
-            alt="Seguidores" 
+            alt="Seguidores no GitHub" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/josezanette?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/josezanette?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/zanette_jose/">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-zanette__jose-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
@@ -40,6 +49,7 @@ Me chamo José Eduardo Zanette, tenho 18 anos e sou natural do Rio Grande do Sul
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -48,6 +58,7 @@ Me chamo José Eduardo Zanette, tenho 18 anos e sou natural do Rio Grande do Sul
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -65,6 +76,7 @@ Me chamo José Eduardo Zanette, tenho 18 anos e sou natural do Rio Grande do Sul
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -73,3 +85,6 @@ Me chamo José Eduardo Zanette, tenho 18 anos e sou natural do Rio Grande do Sul
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<br/>
+<br/>
