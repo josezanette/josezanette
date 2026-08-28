@@ -5,7 +5,7 @@
 Me chamo José Eduardo Zanette, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na Escola Estadual de Ensino Médio Vicente Guerra. Atualmente, estou cursando Ciências da Computação na UPF. Sou apaixonado por tecnologia e compartilho meu conhecimento através de meus repositórios no GITHUB e também através do Instagram, com o perfil chamado "[zanette_jose](https://www.instagram.com/zanette_jose/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@eusouzanettee">
+    <a href="https://www.youtube.com/@eusouzanette">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
