@@ -1,6 +1,6 @@
 # 👩🏻‍💻 José Eduardo Zanette
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor`**
 
 Me chamo José Eduardo Zanette, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o Ensino Médio na Escola Estadual de Ensino Médio Vicente Guerra e, atualmente, curso Ciência da Computação na UPF.
 Sou apaixonado por tecnologia e estou em constante desenvolvimento, buscando aprimorar meus conhecimentos e habilidades através de projetos e experiências práticas. Compartilho meus projetos e aprendizados por meio dos meus repositórios no GitHub e também nas redes sociais.
